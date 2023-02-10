@@ -1,0 +1,6 @@
+node_modules
+**/*.spec.*
+**/*.e2e.*
+**/*.stories.*
+cypress.config.ts
+vite.config.ts
